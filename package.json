@@ -1,0 +1,29 @@
+{
+  "name": "coinapi",
+  "version": "1.0.0",
+  "description": "A test to trade coins",
+  "main": "test.js",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "kucoin-futures-node-api": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortezaataiy/coinApi.git"
+  },
+  "keywords": [
+    "coin",
+    "trade",
+    "exchange"
+  ],
+  "author": "morteza.ataiy@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mortezaataiy/coinApi/issues"
+  },
+  "homepage": "https://github.com/mortezaataiy/coinApi#readme"
+}
